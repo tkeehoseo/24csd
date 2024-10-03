@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.0">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="user"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2024-04-19 10:17:37 &#50724;&#51204;"/>
+        <attribute name="created" value="dXNlcjtIT1NFTy1ORTEtNTIxOzIwMjQtMDQtMTk7MDk6NTk6MDMg7Jik7KCEOzEwNDMzMA=="/>
+        <attribute name="edited" value="dXNlcjtIT1NFTy1ORTEtNTIxOzIwMjQtMDQtMTk7MTA6MTc6Mzcg7Jik7KCEOzE7MTA0NDMx"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="a" type="Integer" array="False" size=""/>
+            <input variable="a"/>
+            <if expression="a &gt; 10">
+                <then>
+                    <output expression="&quot;a&#44032; 10&#48372;&#45796; &#53373;&#45768;&#45796;&quot;" newline="True"/>
+                </then>
+                <else>
+                    <output expression="&quot;a&#45716; 10&#48372;&#45796; &#53356;&#51648; &#50506;&#49845;&#45768;&#45796;&quot;" newline="True"/>
+                </else>
+            </if>
+        </body>
+    </function>
+</flowgorithm>

@@ -1,0 +1,8 @@
+altgraph==0.17.4
+idlex==1.22
+packaging==24.0
+pefile==2023.2.7
+pipdeptree==2.17.0
+pyinstaller==6.5.0
+pyinstaller-hooks-contrib==2024.3
+pywin32-ctypes==0.2.2

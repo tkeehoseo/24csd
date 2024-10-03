@@ -1,0 +1,4 @@
+Hello, python.
+This is the SW design class.
+Nice to meet you
+20200301
