@@ -1,0 +1,162 @@
+{
+  "main": {
+    "id": "9629b6ec81e6be6c",
+    "type": "split",
+    "children": [
+      {
+        "id": "bbd022dc2d824a89",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a57d0acdf3a641ef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "python-pptx.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "aff0c42bd58452f2",
+    "type": "split",
+    "children": [
+      {
+        "id": "b61c582844f484ae",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e45d74394f839268",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "28278eded4072565",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "614638cf38ea83b3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e0dc9c4b8cedbace",
+    "type": "split",
+    "children": [
+      {
+        "id": "9fa36f1f36be1ad6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "58df96f8b49e58e6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "python-pptx.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e2b9bcf463b5a79f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "python-pptx.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d3d67049b2eb6761",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "eaa77d9606e707ba",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "python-pptx.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "a57d0acdf3a641ef",
+  "lastOpenFiles": [
+    "무제 파일.canvas",
+    "Welcome.md",
+    "요구사항.md",
+    "할 일들.md",
+    "python-pptx.md",
+    "().md",
+    "오피스 파일 처리 라이브러리 조사.md",
+    "create a link.md",
+    "여기.md",
+    "2024-10-04.md"
+  ]
+}
